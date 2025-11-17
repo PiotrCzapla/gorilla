@@ -24,6 +24,10 @@ For model names containing `{...}`, multiple versions are available. For example
 | BitAgent-8B                                | Prompt           | Self-hosted 💻 | BitAgent/BitAgent-8B                                        |
 | BitAgent-Bounty-8B                         | Function Calling | Self-hosted 💻 | BitAgent/BitAgent-Bounty-8B                                 |
 | Claude-haiku-4.5-20241022                  | Function Calling | Anthropic      | claude-haiku-4-5-20251001-FC                                |
+| Claude-haiku-4.5 (OpenRouter)              | Function Calling | OpenRouter     | anthropic/claude-haiku-4.5-FC                 |
+|                                            |                  |               |                                               |
+| Claude-haiku-4.5 (OpenRouter)              | Prompt           | OpenRouter     | anthropic/claude-haiku-4.5                    |
+|                                            |                  |               |                                               |
 | Claude-haiku-4.5-20241022                  | Prompt           | Anthropic      | claude-haiku-4-5-20251001                                   |
 | Claude-Opus-4.1-20250805                   | Function Calling | Anthropic      | claude-opus-4-1-20250805-FC                                 |
 | Claude-Opus-4.1-20250805                   | Prompt           | Anthropic      | claude-opus-4-1-20250805                                    |

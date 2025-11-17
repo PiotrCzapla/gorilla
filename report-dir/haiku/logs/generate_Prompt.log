@@ -1,0 +1,1 @@
+$ /root/.pyenv/versions/3.12.12/bin/python3 -m bfcl_eval._llm_response_generation --model anthropic/claude-haiku-4.5 --test-category multi_turn_base --num-threads 1 --temperature 0.0 --run-ids
